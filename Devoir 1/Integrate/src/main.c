@@ -38,9 +38,3 @@ int main(int argc, char* argv[])
 }
 
 
-double integrate(double x[3],double y[3],double(*f)(double,double)){
-    
-}
-
-double integrateRecursive(double x[3],double y[3],double(*f)(double,double),int n);
-
